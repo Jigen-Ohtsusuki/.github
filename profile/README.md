@@ -2,7 +2,7 @@
 
 <div align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=696969&center=true&vCenter=true&width=600&lines=Software+Developer;Android+Developer;System+Architecture+Explorer;Building+Reliable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=3094ff&center=true&vCenter=true&width=600&lines=Software+Developer;Android+Developer;System+Architecture+Explorer;Building+Reliable+Applications)](https://git.io/typing-svg)
 
 <p>
   <img src="https://raw.githubusercontent.com/Jigen-Ohtsusuki/.github/main/metrics/intro.svg" alt="Introduction" />
