@@ -1,14 +1,16 @@
-# Hi there, I'm Abhishek 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Hi%20there,%20 I'm&fontSize=50" />
 
-<div align="left">
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=3094ff&center=true&vCenter=true&width=600&lines=Software+Developer;Android+Developer;System+Architecture+Explorer;Building+Reliable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=38&pause=1000&color=3094ff&center=true&vCenter=true&width=600&lines=Software+Developer;Android+Developer;System+Architecture+Explorer;Building+Reliable+Applications)](https://git.io/typing-svg)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" />
 
 <p>
   <img src="https://raw.githubusercontent.com/Jigen-Ohtsusuki/.github/main/metrics/intro.svg" alt="Introduction" />
 </p>
-
-</div>
 
 ## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/sparkles.svg" alt="about" width="25" height="25" style="filter: invert(100%) brightness(95%) contrast(80%); vertical-align: middle;" /> <span style="font-family: 'Poppins', sans-serif;">About Me</span>
 
@@ -97,13 +99,13 @@ I'm a software developer driven by a passion for building reliable, high-perform
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jigen-Ohtsusuki&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jigen-Ohtsusuki&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=Jigen-Ohtsusuki&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jigen-Ohtsusuki&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
