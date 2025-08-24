@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Hi%20there,%20 I'm&fontSize=50" />
+# Hi there, I'm
 
 <div align="center">
   
