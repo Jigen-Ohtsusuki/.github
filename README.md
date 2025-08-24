@@ -10,7 +10,7 @@
 
 </div>
 
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/sparkles.svg" alt="about" width="25" height="25" style="filter: invert(40%) sepia(0%) saturate(0%) hue-rotate(345deg) brightness(95%) contrast(80%); vertical-align: middle;" /> <span style="font-family: 'Poppins', sans-serif;">About Me</span>
+## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/sparkles.svg" alt="about" width="25" height="25" style="filter: invert(100%) brightness(95%) contrast(80%); vertical-align: middle;" /> <span style="font-family: 'Poppins', sans-serif;">About Me</span>
 
 <div style="font-family: 'Poppins', sans-serif;">
 
@@ -28,7 +28,7 @@ I'm a software developer driven by a passion for building reliable, high-perform
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/code-bracket.svg" alt="tech" width="25" height="25" style="filter: invert(40%) sepia(0%) saturate(0%) hue-rotate(345deg) brightness(95%) contrast(80%); vertical-align: middle;" /> <span style="font-family: 'Poppins', sans-serif;">Tech Stack</span>
+## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/code-bracket.svg" alt="tech" width="25" height="25" style="filter: invert(100%) brightness(95%) contrast(80%); vertical-align: middle;" /> <span style="font-family: 'Poppins', sans-serif;">Tech Stack</span>
 
 ### <span style="font-family: 'Poppins', sans-serif;">Programming Languages</span>
 ![C](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c&logoColor=white)
@@ -88,7 +88,7 @@ I'm a software developer driven by a passion for building reliable, high-perform
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-gray?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/chart-bar.svg" alt="stats" width="25" height="25" style="filter: invert(40%) sepia(0%) saturate(0%) hue-rotate(345deg) brightness(95%) contrast(80%); vertical-align: middle;" /> <span style="font-family: 'Poppins', sans-serif;">GitHub Stats</span>
+## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/chart-bar.svg" alt="stats" width="25" height="25" style="filter: invert(100%) brightness(95%) contrast(80%);" /> <span style="font-family: 'Poppins', sans-serif;">GitHub Stats</span>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jigen-Ohtsusuki/.github/main/metrics/terminal.svg" alt="Terminal Overview" />
